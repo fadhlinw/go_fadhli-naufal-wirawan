@@ -8,7 +8,6 @@ import (
 
 func Compare(a, b string) string {
 
-	// your code here
 	if strings.Contains(a, b) {
 		return b
 	} else if strings.Contains(b, a) {
