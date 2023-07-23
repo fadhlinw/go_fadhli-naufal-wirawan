@@ -1,0 +1,5 @@
+mode: set
+example.com/m/13_Unit-Test/Simple/calculate.go:3.28,6.2 2 1
+example.com/m/13_Unit-Test/Simple/calculate.go:8.30,11.2 2 1
+example.com/m/13_Unit-Test/Simple/calculate.go:13.25,16.2 2 1
+example.com/m/13_Unit-Test/Simple/calculate.go:18.24,21.2 2 1
