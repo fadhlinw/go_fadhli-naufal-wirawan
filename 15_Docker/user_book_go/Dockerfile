@@ -14,7 +14,6 @@ COPY . .
 # Build the application
 RUN go build -o main .
 
-EXPOSE 8000
 
 # Run the application when the container starts
 CMD ["./main"]
