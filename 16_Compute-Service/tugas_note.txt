@@ -1,0 +1,6 @@
+IP PUBLIC : http://3.25.179.234/
+
+Public IPv4 DNS : http://ec2-3-25-179-234.ap-southeast-2.compute.amazonaws.com/
+
+Endpoint : http://ec2-3-25-179-234.ap-southeast-2.compute.amazonaws.com/books
+

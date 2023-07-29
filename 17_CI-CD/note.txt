@@ -1,0 +1,5 @@
+link repo project : https://github.com/fadhlinw/alta-ci-cd
+
+workflow action : https://github.com/fadhlinw/alta-ci-cd/actions
+
+check endpoint : http://ec2-3-25-179-234.ap-southeast-2.compute.amazonaws.com:8080/
